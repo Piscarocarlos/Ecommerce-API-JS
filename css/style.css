@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab:wght@700&display=swap');
+@font-face {
+    font-family: 'bootstrap-icons';
+    src: url('../fonts/bootstrap-icons.woff'), url('../fonts/bootstrap-icons.woff2');
+}
+
+:root{
+    --primary: #E24136;
+}
+
+body{
+    background-color: #F5F5F5;
+}
+
+
+.img-resize{
+    height: 200px;
+    object-fit: cover;
+}
